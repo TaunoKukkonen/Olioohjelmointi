@@ -1,0 +1,15 @@
+D:\Koulu\C# Gradia\Olioohjelmointi\Ovi\Ovi\bin\Debug\net6.0\Ovi.exe
+D:\Koulu\C# Gradia\Olioohjelmointi\Ovi\Ovi\bin\Debug\net6.0\Ovi.deps.json
+D:\Koulu\C# Gradia\Olioohjelmointi\Ovi\Ovi\bin\Debug\net6.0\Ovi.runtimeconfig.json
+D:\Koulu\C# Gradia\Olioohjelmointi\Ovi\Ovi\bin\Debug\net6.0\Ovi.dll
+D:\Koulu\C# Gradia\Olioohjelmointi\Ovi\Ovi\bin\Debug\net6.0\Ovi.pdb
+D:\Koulu\C# Gradia\Olioohjelmointi\Ovi\Ovi\obj\Debug\net6.0\Ovi.csproj.AssemblyReference.cache
+D:\Koulu\C# Gradia\Olioohjelmointi\Ovi\Ovi\obj\Debug\net6.0\Ovi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Koulu\C# Gradia\Olioohjelmointi\Ovi\Ovi\obj\Debug\net6.0\Ovi.AssemblyInfoInputs.cache
+D:\Koulu\C# Gradia\Olioohjelmointi\Ovi\Ovi\obj\Debug\net6.0\Ovi.AssemblyInfo.cs
+D:\Koulu\C# Gradia\Olioohjelmointi\Ovi\Ovi\obj\Debug\net6.0\Ovi.csproj.CoreCompileInputs.cache
+D:\Koulu\C# Gradia\Olioohjelmointi\Ovi\Ovi\obj\Debug\net6.0\Ovi.dll
+D:\Koulu\C# Gradia\Olioohjelmointi\Ovi\Ovi\obj\Debug\net6.0\refint\Ovi.dll
+D:\Koulu\C# Gradia\Olioohjelmointi\Ovi\Ovi\obj\Debug\net6.0\Ovi.pdb
+D:\Koulu\C# Gradia\Olioohjelmointi\Ovi\Ovi\obj\Debug\net6.0\Ovi.genruntimeconfig.cache
+D:\Koulu\C# Gradia\Olioohjelmointi\Ovi\Ovi\obj\Debug\net6.0\ref\Ovi.dll
