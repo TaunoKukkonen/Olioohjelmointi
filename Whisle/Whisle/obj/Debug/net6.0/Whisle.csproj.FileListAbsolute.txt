@@ -1,0 +1,15 @@
+D:\Coding\c#\Whisle\Whisle\obj\Debug\net6.0\Whisle.csproj.AssemblyReference.cache
+D:\Coding\c#\Whisle\Whisle\obj\Debug\net6.0\Whisle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\c#\Whisle\Whisle\obj\Debug\net6.0\Whisle.AssemblyInfoInputs.cache
+D:\Coding\c#\Whisle\Whisle\obj\Debug\net6.0\Whisle.AssemblyInfo.cs
+D:\Coding\c#\Whisle\Whisle\obj\Debug\net6.0\Whisle.csproj.CoreCompileInputs.cache
+D:\Coding\c#\Whisle\Whisle\bin\Debug\net6.0\Whisle.exe
+D:\Coding\c#\Whisle\Whisle\bin\Debug\net6.0\Whisle.deps.json
+D:\Coding\c#\Whisle\Whisle\bin\Debug\net6.0\Whisle.runtimeconfig.json
+D:\Coding\c#\Whisle\Whisle\bin\Debug\net6.0\Whisle.dll
+D:\Coding\c#\Whisle\Whisle\bin\Debug\net6.0\Whisle.pdb
+D:\Coding\c#\Whisle\Whisle\obj\Debug\net6.0\Whisle.dll
+D:\Coding\c#\Whisle\Whisle\obj\Debug\net6.0\refint\Whisle.dll
+D:\Coding\c#\Whisle\Whisle\obj\Debug\net6.0\Whisle.pdb
+D:\Coding\c#\Whisle\Whisle\obj\Debug\net6.0\Whisle.genruntimeconfig.cache
+D:\Coding\c#\Whisle\Whisle\obj\Debug\net6.0\ref\Whisle.dll

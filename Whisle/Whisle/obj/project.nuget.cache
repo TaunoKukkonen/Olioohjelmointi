@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ndVIJzKhQW6FTydpuiuxFpb7QGxrj+flnhQ0fKBT6stHE4G8XmBZr10JB7LATvW829D/KlcO4e+4xWIUeIXUkQ==",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\c#\\Whisle\\Whisle\\Whisle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tauno\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Tauno\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Tauno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Tauno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
