@@ -1,0 +1,8 @@
+D:\Koulu\C# Gradia\Elaimet\Elaimet\bin\Debug\Elaimet.exe.config
+D:\Koulu\C# Gradia\Elaimet\Elaimet\bin\Debug\Elaimet.exe
+D:\Koulu\C# Gradia\Elaimet\Elaimet\bin\Debug\Elaimet.pdb
+D:\Koulu\C# Gradia\Elaimet\Elaimet\obj\Debug\Tehtävä1.csproj.AssemblyReference.cache
+D:\Koulu\C# Gradia\Elaimet\Elaimet\obj\Debug\Tehtävä1.csproj.SuggestedBindingRedirects.cache
+D:\Koulu\C# Gradia\Elaimet\Elaimet\obj\Debug\Tehtävä1.csproj.CoreCompileInputs.cache
+D:\Koulu\C# Gradia\Elaimet\Elaimet\obj\Debug\Elaimet.exe
+D:\Koulu\C# Gradia\Elaimet\Elaimet\obj\Debug\Elaimet.pdb
