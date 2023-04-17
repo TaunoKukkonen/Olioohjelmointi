@@ -30,11 +30,31 @@ namespace Elaimet
             aHevonen.Nimi= "Histamiini";
             aHevonen.Paino=89;
             Console.WriteLine(aHevonen.Nimi + " " + aHevonen.Paino);
-            Console.Read(); 
              
             Kissa aKissa = new Kissa();
             aKissa.nimi = "pasi";
             Console.WriteLine(aKissa.nimi);
+
+
+            Kissa bKissa = new Kissa(5, "stinky");
+            Console.WriteLine(bKissa.nimi + " " + bKissa.PalautaKissanIka());
+
+            Kissa cKissa = new Kissa();
+            cKissa.AsetaKissaNimi("bob");
+            cKissa.AsetaKissanIka(-2);
+            Console.WriteLine(cKissa.PalautaKissanNimi() + " " + cKissa.PalautaKissanIka());
+            cKissa.nimitotta();
+            cKissa.ikätotta();
+
+            Kissa katti = new Kissa(2,"Anneli");
+            Console.WriteLine(katti.nimi);
+            katti.AsetaKissaNimi("Hilda");
+            Console.WriteLine(katti.nimi);
+            katti.nimitotta();
+
+            Kissa kitty = new Kissa();
+            Console.WriteLine(kitty.nimi+ " "+ kitty.PalautaKissanIka());
+            
 
             Console.ReadLine();
         }
