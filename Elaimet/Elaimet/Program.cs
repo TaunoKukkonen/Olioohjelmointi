@@ -32,23 +32,9 @@ namespace Elaimet
             Console.WriteLine(aHevonen.Nimi + " " + aHevonen.Paino);
             Console.Read(); 
              
-            Cat aCat = new Cat();
-            aCat.name = "Pasi";
-            Console.WriteLine(aCat.name);
-            Console.ReadLine();
-
-            aCat.setKissaname("Simo");
-            Console.Write(aCat.name);
-            Console.ReadLine();
-            aCat.setKissaage(1);
-            Console.Write(aCat.returnage());
-            Console.ReadLine();
-
-            Cat bCat = new Cat(6,"Stinky");
-            Console.Write(bCat.returnKissaname() +" "+bCat.returnage());
-            
-
-
+            Kissa aKissa = new Kissa();
+            aKissa.nimi = "pasi";
+            Console.WriteLine(aKissa.nimi);
 
             Console.ReadLine();
         }

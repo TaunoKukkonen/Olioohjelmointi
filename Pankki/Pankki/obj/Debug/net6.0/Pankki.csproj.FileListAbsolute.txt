@@ -1,0 +1,15 @@
+D:\Koulu\C# Gradia\Olioohjelmointi\Pankki\Pankki\bin\Debug\net6.0\Pankki.exe
+D:\Koulu\C# Gradia\Olioohjelmointi\Pankki\Pankki\bin\Debug\net6.0\Pankki.deps.json
+D:\Koulu\C# Gradia\Olioohjelmointi\Pankki\Pankki\bin\Debug\net6.0\Pankki.runtimeconfig.json
+D:\Koulu\C# Gradia\Olioohjelmointi\Pankki\Pankki\bin\Debug\net6.0\Pankki.dll
+D:\Koulu\C# Gradia\Olioohjelmointi\Pankki\Pankki\bin\Debug\net6.0\Pankki.pdb
+D:\Koulu\C# Gradia\Olioohjelmointi\Pankki\Pankki\obj\Debug\net6.0\Pankki.csproj.AssemblyReference.cache
+D:\Koulu\C# Gradia\Olioohjelmointi\Pankki\Pankki\obj\Debug\net6.0\Pankki.GeneratedMSBuildEditorConfig.editorconfig
+D:\Koulu\C# Gradia\Olioohjelmointi\Pankki\Pankki\obj\Debug\net6.0\Pankki.AssemblyInfoInputs.cache
+D:\Koulu\C# Gradia\Olioohjelmointi\Pankki\Pankki\obj\Debug\net6.0\Pankki.AssemblyInfo.cs
+D:\Koulu\C# Gradia\Olioohjelmointi\Pankki\Pankki\obj\Debug\net6.0\Pankki.csproj.CoreCompileInputs.cache
+D:\Koulu\C# Gradia\Olioohjelmointi\Pankki\Pankki\obj\Debug\net6.0\Pankki.dll
+D:\Koulu\C# Gradia\Olioohjelmointi\Pankki\Pankki\obj\Debug\net6.0\refint\Pankki.dll
+D:\Koulu\C# Gradia\Olioohjelmointi\Pankki\Pankki\obj\Debug\net6.0\Pankki.pdb
+D:\Koulu\C# Gradia\Olioohjelmointi\Pankki\Pankki\obj\Debug\net6.0\Pankki.genruntimeconfig.cache
+D:\Koulu\C# Gradia\Olioohjelmointi\Pankki\Pankki\obj\Debug\net6.0\ref\Pankki.dll

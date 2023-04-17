@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cb6TDh6D0Ba4GvW6wjAFTs/R2pjF5lqGyxITt3P35s7T0g9gRZDrWephLOGrLpdyNjKQZ9pEqYi49itO5C1h4Q==",
+  "success": true,
+  "projectFilePath": "D:\\Koulu\\C# Gradia\\Olioohjelmointi\\Pankki\\Pankki\\Pankki.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tauno\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Tauno\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Tauno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Tauno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
