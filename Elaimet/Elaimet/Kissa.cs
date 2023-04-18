@@ -76,7 +76,7 @@ namespace Elaimet
         }
         public override string ToString()
         {
-            return "Miuku, ikä 0.";
+            return "Kissa: "+ this.nimi + ", ikä"+ this.ika;
         }
     }
 }
