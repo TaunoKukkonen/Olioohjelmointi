@@ -23,7 +23,7 @@ namespace Elaimet
         }
         public void AsetaKissaNimi(String uusi_Nimi)
         {
-            if (uusi_Nimi.ContainsCaseInsensitive("hilda") = true)
+            if (uusi_Nimi.ContainsCaseInsensitive ( "hilda" ) == true)
             {
                 oikeanimi = false;
             }
@@ -74,6 +74,9 @@ namespace Elaimet
                 Console.WriteLine("nimi on hyväksyttävä");
             }else { Console.WriteLine("nimeä Hilda ei voida hyväksyä"); }
         }
-
+        public override string ToString()
+        {
+            return "Miuku, ikä 0.";
+        }
     }
 }

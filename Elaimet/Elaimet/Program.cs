@@ -48,13 +48,16 @@ namespace Elaimet
 
             Kissa katti = new Kissa(2,"Anneli");
             Console.WriteLine(katti.nimi);
-            katti.AsetaKissaNimi("Hilda");
+            katti.AsetaKissaNimi("HiLdA");
             Console.WriteLine(katti.nimi);
             katti.nimitotta();
 
             Kissa kitty = new Kissa();
             Console.WriteLine(kitty.nimi+ " "+ kitty.PalautaKissanIka());
-            
+
+            Kissa elgato = new Kissa();
+            Console.WriteLine(elgato);
+
 
             Console.ReadLine();
         }

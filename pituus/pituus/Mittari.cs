@@ -11,17 +11,18 @@ namespace pituus
         private int _mitta;
 
         public Mittari() 
-        {
+        { 
             _mitta = 0;
         }
 
         public void Lisaa()
-        {
-            _mitta++;
+           
+        {    if (_mitta < 5)
+            {_mitta++; }
         }
         public void Vahenna()
-        {
-            _mitta--;
+        {   if ( _mitta>0)
+            { _mitta--; }
         }
         public int Mitta()
         { return _mitta; }
