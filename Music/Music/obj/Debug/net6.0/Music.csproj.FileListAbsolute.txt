@@ -1,0 +1,15 @@
+D:\Koulu\C# Gradia\Olioohjelmointi\Music\Music\bin\Debug\net6.0\Music.exe
+D:\Koulu\C# Gradia\Olioohjelmointi\Music\Music\bin\Debug\net6.0\Music.deps.json
+D:\Koulu\C# Gradia\Olioohjelmointi\Music\Music\bin\Debug\net6.0\Music.runtimeconfig.json
+D:\Koulu\C# Gradia\Olioohjelmointi\Music\Music\bin\Debug\net6.0\Music.dll
+D:\Koulu\C# Gradia\Olioohjelmointi\Music\Music\bin\Debug\net6.0\Music.pdb
+D:\Koulu\C# Gradia\Olioohjelmointi\Music\Music\obj\Debug\net6.0\Music.csproj.AssemblyReference.cache
+D:\Koulu\C# Gradia\Olioohjelmointi\Music\Music\obj\Debug\net6.0\Music.GeneratedMSBuildEditorConfig.editorconfig
+D:\Koulu\C# Gradia\Olioohjelmointi\Music\Music\obj\Debug\net6.0\Music.AssemblyInfoInputs.cache
+D:\Koulu\C# Gradia\Olioohjelmointi\Music\Music\obj\Debug\net6.0\Music.AssemblyInfo.cs
+D:\Koulu\C# Gradia\Olioohjelmointi\Music\Music\obj\Debug\net6.0\Music.csproj.CoreCompileInputs.cache
+D:\Koulu\C# Gradia\Olioohjelmointi\Music\Music\obj\Debug\net6.0\Music.dll
+D:\Koulu\C# Gradia\Olioohjelmointi\Music\Music\obj\Debug\net6.0\refint\Music.dll
+D:\Koulu\C# Gradia\Olioohjelmointi\Music\Music\obj\Debug\net6.0\Music.pdb
+D:\Koulu\C# Gradia\Olioohjelmointi\Music\Music\obj\Debug\net6.0\Music.genruntimeconfig.cache
+D:\Koulu\C# Gradia\Olioohjelmointi\Music\Music\obj\Debug\net6.0\ref\Music.dll

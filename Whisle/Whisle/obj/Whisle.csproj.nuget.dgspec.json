@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding\\c#\\Whisle\\Whisle\\Whisle.csproj": {}
+    "D:\\Koulu\\C# Gradia\\Olioohjelmointi\\Whisle\\Whisle\\Whisle.csproj": {}
   },
   "projects": {
-    "D:\\Coding\\c#\\Whisle\\Whisle\\Whisle.csproj": {
+    "D:\\Koulu\\C# Gradia\\Olioohjelmointi\\Whisle\\Whisle\\Whisle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding\\c#\\Whisle\\Whisle\\Whisle.csproj",
+        "projectUniqueName": "D:\\Koulu\\C# Gradia\\Olioohjelmointi\\Whisle\\Whisle\\Whisle.csproj",
         "projectName": "Whisle",
-        "projectPath": "D:\\Coding\\c#\\Whisle\\Whisle\\Whisle.csproj",
+        "projectPath": "D:\\Koulu\\C# Gradia\\Olioohjelmointi\\Whisle\\Whisle\\Whisle.csproj",
         "packagesPath": "C:\\Users\\Tauno\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding\\c#\\Whisle\\Whisle\\obj\\",
+        "outputPath": "D:\\Koulu\\C# Gradia\\Olioohjelmointi\\Whisle\\Whisle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tauno\\AppData\\Roaming\\NuGet\\NuGet.Config",

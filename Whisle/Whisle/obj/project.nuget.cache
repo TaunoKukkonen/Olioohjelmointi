@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ndVIJzKhQW6FTydpuiuxFpb7QGxrj+flnhQ0fKBT6stHE4G8XmBZr10JB7LATvW829D/KlcO4e+4xWIUeIXUkQ==",
+  "dgSpecHash": "a062OoQ1oLX1QxOkuyTleZQMJ/vVeVXFQjurCFWDuLHHlFcSodGG8D6ryGnVzPAcgdUs7pwakFIkoJ4MmtC8Fw==",
   "success": true,
-  "projectFilePath": "D:\\Coding\\c#\\Whisle\\Whisle\\Whisle.csproj",
+  "projectFilePath": "D:\\Koulu\\C# Gradia\\Olioohjelmointi\\Whisle\\Whisle\\Whisle.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tauno\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
     "C:\\Users\\Tauno\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",

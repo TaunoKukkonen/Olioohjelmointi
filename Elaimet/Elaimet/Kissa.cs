@@ -23,7 +23,7 @@ namespace Elaimet
         }
         public void AsetaKissaNimi(String uusi_Nimi)
         {
-            if (uusi_Nimi == "Hilda")
+            if (uusi_Nimi.ContainsCaseInsensitive("hilda") = true)
             {
                 oikeanimi = false;
             }

@@ -22,7 +22,7 @@ namespace Tuote
 
         public void TulostaTuote()
         {
-            Console.WriteLine(nimiAlussa+"hinta " + hintaAlussa+" "+ maaraAlussa+ " kpl" );
+            Console.WriteLine(nimiAlussa+" hinta " + hintaAlussa+" "+ maaraAlussa+ " kpl" );
         }
 
 
