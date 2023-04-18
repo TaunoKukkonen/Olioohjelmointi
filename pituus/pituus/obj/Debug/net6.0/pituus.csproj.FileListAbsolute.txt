@@ -1,0 +1,15 @@
+D:\Koulu\C# Gradia\Olioohjelmointi\pituus\pituus\bin\Debug\net6.0\pituus.exe
+D:\Koulu\C# Gradia\Olioohjelmointi\pituus\pituus\bin\Debug\net6.0\pituus.deps.json
+D:\Koulu\C# Gradia\Olioohjelmointi\pituus\pituus\bin\Debug\net6.0\pituus.runtimeconfig.json
+D:\Koulu\C# Gradia\Olioohjelmointi\pituus\pituus\bin\Debug\net6.0\pituus.dll
+D:\Koulu\C# Gradia\Olioohjelmointi\pituus\pituus\bin\Debug\net6.0\pituus.pdb
+D:\Koulu\C# Gradia\Olioohjelmointi\pituus\pituus\obj\Debug\net6.0\pituus.csproj.AssemblyReference.cache
+D:\Koulu\C# Gradia\Olioohjelmointi\pituus\pituus\obj\Debug\net6.0\pituus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Koulu\C# Gradia\Olioohjelmointi\pituus\pituus\obj\Debug\net6.0\pituus.AssemblyInfoInputs.cache
+D:\Koulu\C# Gradia\Olioohjelmointi\pituus\pituus\obj\Debug\net6.0\pituus.AssemblyInfo.cs
+D:\Koulu\C# Gradia\Olioohjelmointi\pituus\pituus\obj\Debug\net6.0\pituus.csproj.CoreCompileInputs.cache
+D:\Koulu\C# Gradia\Olioohjelmointi\pituus\pituus\obj\Debug\net6.0\pituus.dll
+D:\Koulu\C# Gradia\Olioohjelmointi\pituus\pituus\obj\Debug\net6.0\refint\pituus.dll
+D:\Koulu\C# Gradia\Olioohjelmointi\pituus\pituus\obj\Debug\net6.0\pituus.pdb
+D:\Koulu\C# Gradia\Olioohjelmointi\pituus\pituus\obj\Debug\net6.0\pituus.genruntimeconfig.cache
+D:\Koulu\C# Gradia\Olioohjelmointi\pituus\pituus\obj\Debug\net6.0\ref\pituus.dll
