@@ -47,7 +47,8 @@ namespace Tehtävä1._1
             Console.WriteLine(elgato);
 
             Koira aKoira = new Koira(0,"Max");
-            Console.WriteLine(aKoira.nimi);
+            aKoira.AsetaKoiranIka(5);
+            Console.WriteLine(aKoira.nimi+aKoira.PalautaKoiranIka());
             aKoira.AsetaKoiranNimi("Musti");
             Console.WriteLine(aKoira.nimi);
 
