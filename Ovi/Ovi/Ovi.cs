@@ -8,6 +8,7 @@ namespace Ovi
 {
     internal class Ovi
     { 
+        public Ovi() { }
         public void koputa()
         {
             Console.WriteLine("Who's there");
