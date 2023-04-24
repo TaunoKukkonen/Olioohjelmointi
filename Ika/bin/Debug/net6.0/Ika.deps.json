@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ika/1.0.0": {
+        "dependencies": {
+          "ElainLuokat": "1.0.0"
+        },
+        "runtime": {
+          "Ika.dll": {}
+        }
+      },
+      "ElainLuokat/1.0.0": {
+        "runtime": {
+          "ElainLuokat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ika/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ElainLuokat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
