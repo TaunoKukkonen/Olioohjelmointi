@@ -23,6 +23,8 @@ namespace Periytyminen
             
 
             
+
+            
             newkissa.Aantele();
             newKoira.Aantele();
         }

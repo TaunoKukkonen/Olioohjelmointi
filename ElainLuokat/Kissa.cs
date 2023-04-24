@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ElainLuokat
 {
-    public class Kissa : Elain
+    public class Kissa : Nisakkaat
     {
         public void kehrata()
         {

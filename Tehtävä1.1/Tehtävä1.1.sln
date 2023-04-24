@@ -9,7 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElainLuokat", "..\ElainLuok
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ika", "..\Ika\Ika.csproj", "{12EC5225-C74E-46DC-BDE0-24203A31EC52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Periytyminen", "..\Periytyminen\Periytyminen.csproj", "{51466A7A-9B11-491D-94C2-8F8346CEE786}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Periytyminen", "..\Periytyminen\Periytyminen.csproj", "{51466A7A-9B11-491D-94C2-8F8346CEE786}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OliotListaan", "..\OliotListaan\OliotListaan.csproj", "{BC3BD59E-5867-474A-A340-BF01F1E65298}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{51466A7A-9B11-491D-94C2-8F8346CEE786}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51466A7A-9B11-491D-94C2-8F8346CEE786}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51466A7A-9B11-491D-94C2-8F8346CEE786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC3BD59E-5867-474A-A340-BF01F1E65298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3BD59E-5867-474A-A340-BF01F1E65298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3BD59E-5867-474A-A340-BF01F1E65298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3BD59E-5867-474A-A340-BF01F1E65298}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

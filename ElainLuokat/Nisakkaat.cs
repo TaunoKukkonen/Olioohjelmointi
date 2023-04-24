@@ -15,7 +15,7 @@ namespace ElainLuokat
         {
             this.VoiHikoilla = Hiki;
         }
-        public void palautaHikoilu()
+        public void PalautaHikoilu()
         {
             if (this.VoiHikoilla == true) 
             {
@@ -24,6 +24,14 @@ namespace ElainLuokat
             {
                 Console.WriteLine("Tämä eläin ei hikoile");
             }
+        }
+        public bool higi()
+        {
+            return VoiHikoilla;
+        }
+        public override string ToString()
+        {
+            return this.PalautaElaimenNimi() + " " + this.PalautaElaimenIka()+ " onko lihansyöjä " + this.palautaOnLihanSyoja() + " Voiko Hikoilla? " + this.higi();
         }
     }
 }

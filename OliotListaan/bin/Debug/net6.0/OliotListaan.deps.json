@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OliotListaan/1.0.0": {
+        "dependencies": {
+          "ElainLuokat": "1.0.0"
+        },
+        "runtime": {
+          "OliotListaan.dll": {}
+        }
+      },
+      "ElainLuokat/1.0.0": {
+        "runtime": {
+          "ElainLuokat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OliotListaan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ElainLuokat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

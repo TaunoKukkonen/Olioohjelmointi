@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HU/SPEr7P+zzT9d/YejdU/pZd8LCpF06RrgjhuZKw190D7pf67YF2rew0KFbAKoVIsw79tDsGPqacFPMlbxlBA==",
+  "success": true,
+  "projectFilePath": "D:\\Koulu\\C# Gradia\\Olioohjelmointi\\OliotListaan\\OliotListaan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tauno\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Tauno\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Tauno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Tauno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -26,6 +26,14 @@ namespace ElainLuokat
                 Console.WriteLine("Tämä lintu ei muni");
             }
         }
+        public bool Muni()
+        {
+            return (this.Munii);
+        }
+        public override string ToString()
+        {
+            return this.PalautaElaimenNimi() + " " + this.PalautaElaimenIka() + " onko lihansyöjä " + this.palautaOnLihanSyoja() + " Voiko munia? " + Muni();
+        }
 
     }
 }

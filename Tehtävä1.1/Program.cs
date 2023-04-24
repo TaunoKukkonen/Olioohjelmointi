@@ -57,7 +57,7 @@ namespace Tehtävä1._1
             vili.AsetaElaimenNimi("Vili");
             vili.AsetaElaimenIka(5);
             vili.AsetaHikoilu(true);
-            vili.palautaHikoilu();
+            vili.PalautaHikoilu();
 
 
             Papukaija Pasi = new Papukaija();
