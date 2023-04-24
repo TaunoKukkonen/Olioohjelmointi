@@ -14,44 +14,57 @@ namespace Tehtävä1._1
         static void Main(string[] args)
         {
 
-            Hevonen aHevonen = new Hevonen();
-            aHevonen.Nimi = "Histamiini";
-            aHevonen.Paino = 89;
-            Console.WriteLine(aHevonen.Nimi + " " + aHevonen.Paino);
+            //Hevonen aHevonen = new Hevonen();
+            //aHevonen.Nimi = "Histamiini";
+            //aHevonen.Paino = 89;
+            //Console.WriteLine(aHevonen.Nimi + " " + aHevonen.Paino);
 
-            Kissa aKissa = new Kissa();
-            aKissa.nimi = "pasi";
-            Console.WriteLine(aKissa.nimi);
+            //Kissa aKissa = new Kissa();
+            //aKissa.nimi = "pasi";
+            //Console.WriteLine(aKissa.nimi);
 
 
-            Kissa bKissa = new Kissa(5, "stinky");
-            Console.WriteLine(bKissa.nimi + " " + bKissa.PalautaKissanIka());
+            //Kissa bKissa = new Kissa(5, "stinky");
+            //Console.WriteLine(bKissa.nimi + " " + bKissa.PalautaKissanIka());
 
-            Kissa cKissa = new Kissa();
-            cKissa.AsetaKissaNimi("bob");
-            cKissa.AsetaKissanIka(-2);
-            Console.WriteLine(cKissa.PalautaKissanNimi() + " " + cKissa.PalautaKissanIka());
-            cKissa.nimitotta();
-            cKissa.ikätotta();
+            //Kissa cKissa = new Kissa();
+            //cKissa.AsetaKissaNimi("bob");
+            //cKissa.AsetaKissanIka(-2);
+            //Console.WriteLine(cKissa.PalautaKissanNimi() + " " + cKissa.PalautaKissanIka());
+            //cKissa.nimitotta();
+            //cKissa.ikätotta();
 
-            Kissa katti = new Kissa(2, "Anneli");
-            Console.WriteLine(katti.nimi);
-            katti.AsetaKissaNimi("HiLdA");
-            Console.WriteLine(katti.nimi);
-            katti.nimitotta();
+            //Kissa katti = new Kissa(2, "Anneli");
+            //Console.WriteLine(katti.nimi);
+            //katti.AsetaKissaNimi("HiLdA");
+            //Console.WriteLine(katti.nimi);
+            //katti.nimitotta();
 
-            Kissa kitty = new Kissa();
-            Console.WriteLine(kitty.nimi + " " + kitty.PalautaKissanIka());
+            //Kissa kitty = new Kissa();
+            //Console.WriteLine(kitty.nimi + " " + kitty.PalautaKissanIka());
 
-            Kissa elgato = new Kissa();
-            Console.WriteLine(elgato);
+            //Kissa elgato = new Kissa();
+            //Console.WriteLine(elgato);
 
-            Koira aKoira = new Koira(0,"Max");
-            aKoira.AsetaKoiranIka(5);
-            Console.WriteLine(aKoira.nimi+aKoira.PalautaKoiranIka());
-            aKoira.AsetaKoiranNimi("Musti");
-            Console.WriteLine(aKoira.nimi);
+            //Koira aKoira = new Koira(0,"Max");
+            //aKoira.AsetaKoiranIka(5);
+            //Console.WriteLine(aKoira.nimi+aKoira.PalautaKoiranIka());
+            //aKoira.AsetaKoiranNimi("Musti");
+            //Console.WriteLine(aKoira.nimi);
 
+
+            Koira vili = new Koira();
+            vili.AsetaElaimenNimi("Vili");
+            vili.AsetaElaimenIka(5);
+            vili.AsetaHikoilu(true);
+            vili.palautaHikoilu();
+
+
+            Papukaija Pasi = new Papukaija();
+            Pasi.AsetaElaimenNimi("Pasi");
+            Pasi.AsetaElaimenIka(20);
+            Pasi.AsetaMuniminen(false);
+            Pasi.PalautaMuniminen();
 
 
             Console.ReadLine();

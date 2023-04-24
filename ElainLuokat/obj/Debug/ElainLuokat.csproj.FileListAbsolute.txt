@@ -1,0 +1,6 @@
+D:\Koulu\C# Gradia\Olioohjelmointi\ElainLuokat\bin\Debug\ElainLuokat.dll
+D:\Koulu\C# Gradia\Olioohjelmointi\ElainLuokat\bin\Debug\ElainLuokat.pdb
+D:\Koulu\C# Gradia\Olioohjelmointi\ElainLuokat\obj\Debug\ElainLuokat.csproj.AssemblyReference.cache
+D:\Koulu\C# Gradia\Olioohjelmointi\ElainLuokat\obj\Debug\ElainLuokat.csproj.CoreCompileInputs.cache
+D:\Koulu\C# Gradia\Olioohjelmointi\ElainLuokat\obj\Debug\ElainLuokat.dll
+D:\Koulu\C# Gradia\Olioohjelmointi\ElainLuokat\obj\Debug\ElainLuokat.pdb
